@@ -1,0 +1,6 @@
+2 , minum , pending
+3 , tidur , pending
+4 , berak , done
+5 , ngopi , pending
+6 , belajar , pending
+7 , minum , pending
