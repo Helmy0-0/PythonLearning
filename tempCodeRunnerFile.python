@@ -1,5 +1,0 @@
-print("Hello World!")
-nama = (input("Nama: "))
-kelas = (input("Kelas: "))
-asal = (input("Asal: "))
-print("Nama saya", nama, "kelas", kelas, "asal", asal)
