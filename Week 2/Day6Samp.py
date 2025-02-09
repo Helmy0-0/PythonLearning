@@ -46,6 +46,7 @@ import numpy as np
 # plt.show()
 
 data = np.random.rand(5, 5)
-sns.heatmap(data, annot = True, cmap = "coolwarm")
-plt.title("Heatmap")
+# sns.heatmap(data, annot = True, cmap = "coolwarm")
+# plt.title("Heatmap")
+sns.pairplot(df)
 plt.show()
